@@ -1,4 +1,4 @@
-### Hi there 👋
+### I love **Game Engine** and **Computer Graphics**, but not I am focusing on **Backend**!
 
 <!--
 **Newt6611/Newt6611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
