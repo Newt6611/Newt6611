@@ -1,4 +1,4 @@
-> I love **Game Engine** and **Computer Graphics**, but not I am focusing on **Backend**!
+🔭 I love _**Game Engine**_ and _**Computer Graphics**_, but not I'm focusing on _**Backend**_!
 
 <!--
 **Newt6611/Newt6611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
